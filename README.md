@@ -31,8 +31,11 @@ API 2: `/restore`
 The API returns the last result from API 1.
 
 The application source code is under the app directory and included as a reference.
+
 The built docker is available as neurealityai/automation-excercise:latest and can be run via:
-`docker run -d --rm -p 5001:5001 neurealityai/automation-excercise:latest`
+```
+docker run -d --rm -p 5001:5001 neurealityai/automation-excercise:latest
+```
 
 ### Testing framework
 Create a testing framework in Python using pytest which:
