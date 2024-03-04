@@ -50,4 +50,4 @@ The framework should be designed in a way that allows developers to easily add a
 A zip or .tar.gz file containing this git repository with:
 
 * Tests written using pytest
-* A TESTS readme file with instructions about this assignment, how to build the container, how to run tests and what should be a successful test result.
+* A TESTS.md readme file with instructions about this assignment, how to setup and run tests and what should be a successful test result.
